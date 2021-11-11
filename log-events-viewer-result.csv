@@ -1,0 +1,97 @@
+timestamp,message,logStreamName
+1636484187640,"START RequestId: d221e61e-6f50-4d30-b3a2-c148b9f2c53e Version: $LATEST
+",2021/11/09/[$LATEST]898240aea3fb4a35a5a51c994f6a3d7f
+1636484187916,"END RequestId: d221e61e-6f50-4d30-b3a2-c148b9f2c53e
+",2021/11/09/[$LATEST]898240aea3fb4a35a5a51c994f6a3d7f
+1636484187917,"REPORT RequestId: d221e61e-6f50-4d30-b3a2-c148b9f2c53e	Duration: 275.61 ms	Billed Duration: 276 ms	Memory Size: 128 MB	Max Memory Used: 69 MB	Init Duration: 341.63 ms	
+",2021/11/09/[$LATEST]898240aea3fb4a35a5a51c994f6a3d7f
+1636485410405,"2021-11-09T19:16:50.404Z	undefined	ERROR	Uncaught Exception 	{""errorType"":""ReferenceError"",""errorMessage"":""event is not defined"",""stack"":[""ReferenceError: event is not defined"",""    at Object.<anonymous> (/var/task/index.js:4:1)"",""    at Module._compile (internal/modules/cjs/loader.js:1072:14)"",""    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)"",""    at Module.load (internal/modules/cjs/loader.js:937:32)"",""    at Function.Module._load (internal/modules/cjs/loader.js:778:12)"",""    at Module.require (internal/modules/cjs/loader.js:961:19)"",""    at require (internal/modules/cjs/helpers.js:92:18)"",""    at _tryRequire (/var/runtime/UserFunction.js:75:12)"",""    at _loadUserApp (/var/runtime/UserFunction.js:95:12)"",""    at Object.module.exports.load (/var/runtime/UserFunction.js:140:17)""]}
+",2021/11/09/[$LATEST]6db3798fd207451d815e275e70c3b817
+1636485410469,"START RequestId: c682e523-293f-4f9b-bab0-08f9fb9f933d Version: $LATEST
+",2021/11/09/[$LATEST]6db3798fd207451d815e275e70c3b817
+1636485413572,"END RequestId: c682e523-293f-4f9b-bab0-08f9fb9f933d
+",2021/11/09/[$LATEST]6db3798fd207451d815e275e70c3b817
+1636485413572,"REPORT RequestId: c682e523-293f-4f9b-bab0-08f9fb9f933d	Duration: 3102.78 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 19 MB	
+",2021/11/09/[$LATEST]6db3798fd207451d815e275e70c3b817
+1636485413572,"2021-11-09T19:16:53.572Z c682e523-293f-4f9b-bab0-08f9fb9f933d Task timed out after 3.10 seconds
+
+",2021/11/09/[$LATEST]6db3798fd207451d815e275e70c3b817
+1636485414048,"2021-11-09T19:16:54.047Z	undefined	ERROR	Uncaught Exception 	{""errorType"":""ReferenceError"",""errorMessage"":""event is not defined"",""stack"":[""ReferenceError: event is not defined"",""    at Object.<anonymous> (/var/task/index.js:4:1)"",""    at Module._compile (internal/modules/cjs/loader.js:1072:14)"",""    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)"",""    at Module.load (internal/modules/cjs/loader.js:937:32)"",""    at Function.Module._load (internal/modules/cjs/loader.js:778:12)"",""    at Module.require (internal/modules/cjs/loader.js:961:19)"",""    at require (internal/modules/cjs/helpers.js:92:18)"",""    at _tryRequire (/var/runtime/UserFunction.js:75:12)"",""    at _loadUserApp (/var/runtime/UserFunction.js:95:12)"",""    at Object.module.exports.load (/var/runtime/UserFunction.js:140:17)""]}
+",2021/11/09/[$LATEST]6db3798fd207451d815e275e70c3b817
+1636485467746,"START RequestId: c682e523-293f-4f9b-bab0-08f9fb9f933d Version: $LATEST
+",2021/11/09/[$LATEST]6db3798fd207451d815e275e70c3b817
+1636485470872,"END RequestId: c682e523-293f-4f9b-bab0-08f9fb9f933d
+",2021/11/09/[$LATEST]6db3798fd207451d815e275e70c3b817
+1636485470873,"REPORT RequestId: c682e523-293f-4f9b-bab0-08f9fb9f933d	Duration: 3122.58 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 19 MB	
+",2021/11/09/[$LATEST]6db3798fd207451d815e275e70c3b817
+1636485470873,"2021-11-09T19:17:50.872Z c682e523-293f-4f9b-bab0-08f9fb9f933d Task timed out after 3.12 seconds
+
+",2021/11/09/[$LATEST]6db3798fd207451d815e275e70c3b817
+1636485471288,"2021-11-09T19:17:51.288Z	undefined	ERROR	Uncaught Exception 	{""errorType"":""ReferenceError"",""errorMessage"":""event is not defined"",""stack"":[""ReferenceError: event is not defined"",""    at Object.<anonymous> (/var/task/index.js:4:1)"",""    at Module._compile (internal/modules/cjs/loader.js:1072:14)"",""    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)"",""    at Module.load (internal/modules/cjs/loader.js:937:32)"",""    at Function.Module._load (internal/modules/cjs/loader.js:778:12)"",""    at Module.require (internal/modules/cjs/loader.js:961:19)"",""    at require (internal/modules/cjs/helpers.js:92:18)"",""    at _tryRequire (/var/runtime/UserFunction.js:75:12)"",""    at _loadUserApp (/var/runtime/UserFunction.js:95:12)"",""    at Object.module.exports.load (/var/runtime/UserFunction.js:140:17)""]}
+",2021/11/09/[$LATEST]6db3798fd207451d815e275e70c3b817
+1636485590514,"START RequestId: c682e523-293f-4f9b-bab0-08f9fb9f933d Version: $LATEST
+",2021/11/09/[$LATEST]1679b9a94b1c4aa6a55e81a65b4e99a4
+1636485590949,"END RequestId: c682e523-293f-4f9b-bab0-08f9fb9f933d
+",2021/11/09/[$LATEST]1679b9a94b1c4aa6a55e81a65b4e99a4
+1636485590949,"REPORT RequestId: c682e523-293f-4f9b-bab0-08f9fb9f933d	Duration: 432.50 ms	Billed Duration: 433 ms	Memory Size: 128 MB	Max Memory Used: 77 MB	Init Duration: 418.38 ms	
+",2021/11/09/[$LATEST]1679b9a94b1c4aa6a55e81a65b4e99a4
+1636485666913,"START RequestId: 9a37d006-d247-4172-8ac4-30f4a0cdd028 Version: $LATEST
+",2021/11/09/[$LATEST]1679b9a94b1c4aa6a55e81a65b4e99a4
+1636485667306,"END RequestId: 9a37d006-d247-4172-8ac4-30f4a0cdd028
+",2021/11/09/[$LATEST]1679b9a94b1c4aa6a55e81a65b4e99a4
+1636485667306,"REPORT RequestId: 9a37d006-d247-4172-8ac4-30f4a0cdd028	Duration: 392.06 ms	Billed Duration: 393 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	
+",2021/11/09/[$LATEST]1679b9a94b1c4aa6a55e81a65b4e99a4
+1636485895689,"START RequestId: 9669878c-b574-480d-b6f0-77ba3c521cac Version: $LATEST
+",2021/11/09/[$LATEST]1679b9a94b1c4aa6a55e81a65b4e99a4
+1636485896188,"END RequestId: 9669878c-b574-480d-b6f0-77ba3c521cac
+",2021/11/09/[$LATEST]1679b9a94b1c4aa6a55e81a65b4e99a4
+1636485896188,"REPORT RequestId: 9669878c-b574-480d-b6f0-77ba3c521cac	Duration: 497.04 ms	Billed Duration: 498 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+",2021/11/09/[$LATEST]1679b9a94b1c4aa6a55e81a65b4e99a4
+1636486105272,"START RequestId: 788004a9-3ee5-48ed-bc0a-aaf8bbad5f82 Version: $LATEST
+",2021/11/09/[$LATEST]1e31a04de5d8464cb96b24caaa212c34
+1636486105750,"END RequestId: 788004a9-3ee5-48ed-bc0a-aaf8bbad5f82
+",2021/11/09/[$LATEST]1e31a04de5d8464cb96b24caaa212c34
+1636486105750,"REPORT RequestId: 788004a9-3ee5-48ed-bc0a-aaf8bbad5f82	Duration: 477.69 ms	Billed Duration: 478 ms	Memory Size: 128 MB	Max Memory Used: 77 MB	Init Duration: 472.34 ms	
+",2021/11/09/[$LATEST]1e31a04de5d8464cb96b24caaa212c34
+1636486207277,"START RequestId: afbe889a-7fde-462b-bdd5-933b7a1a41bc Version: $LATEST
+",2021/11/09/[$LATEST]1e31a04de5d8464cb96b24caaa212c34
+1636486207671,"END RequestId: afbe889a-7fde-462b-bdd5-933b7a1a41bc
+",2021/11/09/[$LATEST]1e31a04de5d8464cb96b24caaa212c34
+1636486207671,"REPORT RequestId: afbe889a-7fde-462b-bdd5-933b7a1a41bc	Duration: 392.77 ms	Billed Duration: 393 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	
+",2021/11/09/[$LATEST]1e31a04de5d8464cb96b24caaa212c34
+1636486597089,"START RequestId: 98f1a96c-ae98-4ea6-b6b3-f9725d831986 Version: $LATEST
+",2021/11/09/[$LATEST]7eefbcc1389f40ccb1816df028ee807d
+1636486597524,"END RequestId: 98f1a96c-ae98-4ea6-b6b3-f9725d831986
+",2021/11/09/[$LATEST]7eefbcc1389f40ccb1816df028ee807d
+1636486597524,"REPORT RequestId: 98f1a96c-ae98-4ea6-b6b3-f9725d831986	Duration: 433.12 ms	Billed Duration: 434 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 425.83 ms	
+",2021/11/09/[$LATEST]7eefbcc1389f40ccb1816df028ee807d
+1636486754730,"START RequestId: 58ce2c87-20e6-4ef1-8458-523987e48597 Version: $LATEST
+",2021/11/09/[$LATEST]94b45e4545344ed2905e20cd203f1d25
+1636486755155,"END RequestId: 58ce2c87-20e6-4ef1-8458-523987e48597
+",2021/11/09/[$LATEST]94b45e4545344ed2905e20cd203f1d25
+1636486755155,"REPORT RequestId: 58ce2c87-20e6-4ef1-8458-523987e48597	Duration: 424.49 ms	Billed Duration: 425 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 442.34 ms	
+",2021/11/09/[$LATEST]94b45e4545344ed2905e20cd203f1d25
+1636487194967,"START RequestId: 0cd39000-1979-4e4b-b8ee-589bc0c698b0 Version: $LATEST
+",2021/11/09/[$LATEST]c54f0c7063e64018a366cf2a4cc11b4c
+1636487195424,"END RequestId: 0cd39000-1979-4e4b-b8ee-589bc0c698b0
+",2021/11/09/[$LATEST]c54f0c7063e64018a366cf2a4cc11b4c
+1636487195424,"REPORT RequestId: 0cd39000-1979-4e4b-b8ee-589bc0c698b0	Duration: 457.02 ms	Billed Duration: 458 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 461.02 ms	
+",2021/11/09/[$LATEST]c54f0c7063e64018a366cf2a4cc11b4c
+1636487332487,"START RequestId: 5ae8b4a0-29db-4c6b-9583-2c4ae9b4df05 Version: $LATEST
+",2021/11/09/[$LATEST]470345500529441b836fd7cc8d5960c7
+1636487332929,"END RequestId: 5ae8b4a0-29db-4c6b-9583-2c4ae9b4df05
+",2021/11/09/[$LATEST]470345500529441b836fd7cc8d5960c7
+1636487332929,"REPORT RequestId: 5ae8b4a0-29db-4c6b-9583-2c4ae9b4df05	Duration: 440.48 ms	Billed Duration: 441 ms	Memory Size: 128 MB	Max Memory Used: 77 MB	Init Duration: 418.58 ms	
+",2021/11/09/[$LATEST]470345500529441b836fd7cc8d5960c7
+1636487448733,"START RequestId: 770a8ed4-9429-4a8a-b11c-f9c7001f32fa Version: $LATEST
+",2021/11/09/[$LATEST]331713872c5e42068ae13b8460bb4139
+1636487449132,"END RequestId: 770a8ed4-9429-4a8a-b11c-f9c7001f32fa
+",2021/11/09/[$LATEST]331713872c5e42068ae13b8460bb4139
+1636487449133,"REPORT RequestId: 770a8ed4-9429-4a8a-b11c-f9c7001f32fa	Duration: 398.42 ms	Billed Duration: 399 ms	Memory Size: 128 MB	Max Memory Used: 69 MB	Init Duration: 346.87 ms	
+",2021/11/09/[$LATEST]331713872c5e42068ae13b8460bb4139
+1636599758937,"START RequestId: 770e927f-f256-461c-8c29-65b729e7c3ce Version: $LATEST
+",2021/11/11/[$LATEST]976599845449423d80f3b6e624e21476
+1636599759380,"END RequestId: 770e927f-f256-461c-8c29-65b729e7c3ce
+",2021/11/11/[$LATEST]976599845449423d80f3b6e624e21476
+1636599759380,"REPORT RequestId: 770e927f-f256-461c-8c29-65b729e7c3ce	Duration: 441.14 ms	Billed Duration: 442 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 470.98 ms	
+",2021/11/11/[$LATEST]976599845449423d80f3b6e624e21476
